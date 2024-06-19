@@ -1,0 +1,12 @@
+@import url("http://fonts.googleapis.com/css?family=Oswald:400,300,700");
+
+.company-title{
+    font-family: 'Gochi Hand';
+    /* ,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ; */
+    /* font-family: url("https://fonts.googleapis.com/css?family=Muli:400,700"); */
+    font-size:  xx-large;
+    color: #006699;
+}
+.logo{
+    mix-blend-mode: multiply;
+}
